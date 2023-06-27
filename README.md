@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate computer scientist student from UERJ</h3>
 <br>
 
-- 🔭 I’m currently a volunteer in a **scientific initiation project**
+- 🔭 I’m currently a volunteer on a **scientific initiation project**
 
 - 🤖 I’m currently learning **Machine Learning | Data Analysis | Algorithms and Data Structures**
 
