@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😄, I'm Vitor</h1>
-<h3 align="center">An undergraduate computer scientist student from UERJ</h3>
+<h3 align="center">An undergraduate computer science student from UERJ</h3>
 <br>
 
 - 🔭 I’m currently a volunteer on a **scientific initiation project**
