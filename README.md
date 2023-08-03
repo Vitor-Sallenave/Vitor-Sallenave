@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a volunteer on a **scientific initiation project**
 
-- 🤖 I’m currently learning **Machine Learning | Data Analysis | Algorithms and Data Structures**
+- 🤖 I’m currently learning **Machine Learning | Data Analysis**
 
 - 🤝 I’m looking to collaborate on **data science projects**
 
