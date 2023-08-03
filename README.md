@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **vitormilome@gmail.com**
 
-- 📄 My experiences: [Linkedin](https://www.linkedin.com/in/v%C3%ADtor-sallenave-561425273)
+- 📄 My experiences: [Linkedln](https://www.linkedin.com/in/v%C3%ADtor-sallenave-561425273)
 
 - 🌟 Curiosities: **I'm passionate about fashion 🕶️**
   
