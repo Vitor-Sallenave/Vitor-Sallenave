@@ -6,7 +6,7 @@
 
 - 🤖 I’m currently learning **NLP | SQL | Data Analysis**
 
-- 🤝 I’m looking to collaborate on **data science projects**
+- 🤝 I’m looking to an **internship in data science**
 
 - 📫 How to reach me: **vitormilome@gmail.com**
 
